@@ -14,3 +14,4 @@ valorBillete = int(input("ingrese el valor del billete"))
 
 resta = valorBillete - totalCompra
 print("este es su cambio" , resta)
+print("este es su cambio" , resta)
